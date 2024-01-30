@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huangshangbin's personal page"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm an intelligent medical engineering undergraduate student from [School of Medical Imaging](https://yxxy.fjmu.edu.cn/), [Fujian Medical University](https://www.fjmu.edu.cn/). My research interests include: intelligent image recognition, computer vision, lung nodule recognition, nasopharyngeal cancer radiotherapy, machine learning, medical physics and more!
+I am very fortunate to be advised by [Prof. Dechun Zheng](https://iime.fzu.edu.cn/info/1111/1228.htm) of Radiology Clinic from [Fujian Cancer Hospital](https://www.fjzl.com.cn/), Fujian Medical University. I was advised by [Prof. Feibao Guo](https://xueshu.baidu.com/scholarID/CN-B373VE0J) of Radiotherapy Department from [The First Hospital of Fujian Medical University](https://www.fyyy.com/), Fujian Medical University.
+You can find my CV here: [Huangshangbin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+[Email](mailto:huangshangbin@stu.fjmu.edu.cn) / [Github](https://github.com/Hhuangshangbin) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/h13143367300?spm=1018.2226.3001.5343)
 
 A data-driven personal website
 ======
