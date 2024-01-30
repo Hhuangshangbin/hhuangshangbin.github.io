@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 I'm an intelligent medical engineering undergraduate student from [School of Medical Imaging](https://yxxy.fjmu.edu.cn/), [Fujian Medical University](https://www.fjmu.edu.cn/). My research interests include: intelligent image recognition, computer vision, lung nodule recognition, nasopharyngeal cancer radiotherapy, machine learning, medical physics and more!
+
 I am very fortunate to be advised by [Prof. Dechun Zheng](https://iime.fzu.edu.cn/info/1111/1228.htm) of Radiology Clinic from [Fujian Cancer Hospital](https://www.fjzl.com.cn/), Fujian Medical University. I was advised by [Prof. Feibao Guo](https://xueshu.baidu.com/scholarID/CN-B373VE0J) of Radiotherapy Department from [The First Hospital of Fujian Medical University](https://www.fyyy.com/), Fujian Medical University.
+
 You can find my CV here: [Huangshangbin's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 [Email](mailto:huangshangbin@stu.fjmu.edu.cn) / [Github](https://github.com/Hhuangshangbin) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/h13143367300?spm=1018.2226.3001.5343)
 
 A data-driven personal website
