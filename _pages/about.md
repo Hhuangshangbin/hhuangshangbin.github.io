@@ -16,41 +16,36 @@ You can find my CV here: [Huangshangbin's Curriculum Vitae](../assets/Curriculum
 
 [Email](mailto:huangshangbin@stu.fjmu.edu.cn) / [Github](https://github.com/Hhuangshangbin) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/h13143367300?spm=1018.2226.3001.5343)
 
-A data-driven personal website
+Work expertises
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+-November 2022 - September 2023, **Research Assistant**, [Anglong (Fujian) Medical Technology Co.](https://aiqicha.baidu.com/detail/compinfo?pid=91969160403358&rq=ef&pd=ee&from=ps&query=%E5%AE%89%E6%8D%B7%E9%BE%99(%E7%A6%8F%E5%BB%BA)%E5%8C%BB%E7%96%97%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Participated in the company's research team's literature reporting and seminars, and undertook the research task of "automatic drawing of lung nodules and classification of benign and malignant" project. Participated in the commercial planning and follow-up of the project "Anjelon Interventional Surgery Navigation System".
 
-Getting started
+-September 2023 - June 2025, **Technical Associate**, [Anglong (Fujian) Medical Technology Co.](https://aiqicha.baidu.com/detail/compinfo?pid=91969160403358&rq=ef&pd=ee&from=ps&query=%E5%AE%89%E6%8D%B7%E9%BE%99(%E7%A6%8F%E5%BB%BA)%E5%8C%BB%E7%96%97%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
+
+Responsible for technical research, project development and system maintenance. Responsible for 1 project and participated in 4 projects. Commercial projects won 1 first prize, 2 gold prizes, 3 second prizes and 3 merit prizes in national competitions.
+
+Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. August 2023 Second Prize of the 6th China Medical Device Innovation and Entrepreneurship Competition Special Competition.
+1. September 2023 Third Prize of the Creative China Medical Device Innovation and Entrepreneurship Competition. 
+1. June 2023 Winner of the 6th China Medical Device Innovation and Entrepreneurship Competition, Mobile Telemedicine Track.
+1. the s-award in the American Student Mathematical Modelling Competition.
+1. the s Award in Asia-Pacific Mathematical Modelling Competition.  
+1. Grand Prize of the Digital Dimension Cup Mathematical Modelling Competition.
+1. Second Prizes in National University Student Mathematical Modelling Competition in Fujian Region twice.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Projects
+======
+1. Oct 2023 Co-author of a paper: "Prediction Models for Sleep Quality Among Frontline Medical Personnel During the COVID-19 Pandemic: Cross-sectional Study Based on Internet New Media" in Nature and Science of Sleep, SCI Region III.
+2. June 2022: Second chairperson of the university-level project "Hitomi Star Computer Vision Aid System".
+3. March 2023 -Main member of the provincial-level project "Nasopharyngeal Cancer Radiotherapy Target Area Automatically Outlining and Metrological Prediction".
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Skills Certificate
+======
+1. November 2022 National Computer Grade Examination Level 2 Certificate (Python Language)
+2. November 2023 National Computer Ranking Examination Level 3 Certificate (Database Technology)
+3. November 2023 National Computer Grade Examination Level 4 Certificate (Database Engineer)
+4. Dec 2023 China Computer Technology Vocational Qualification Certificate - Integrated System Project Management Engineer (Intermediate Title)
+5. December 2023 Certificate of Grade 6 in University English Language
