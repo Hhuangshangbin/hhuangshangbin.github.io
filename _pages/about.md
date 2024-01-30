@@ -18,11 +18,11 @@ You can find my CV here: [Huangshangbin's Curriculum Vitae](../assets/Curriculum
 
 Work expertises
 ======
--November 2022 - September 2023, **Research Assistant**, [Anglong (Fujian) Medical Technology Co.](https://aiqicha.baidu.com/detail/compinfo?pid=91969160403358&rq=ef&pd=ee&from=ps&query=%E5%AE%89%E6%8D%B7%E9%BE%99(%E7%A6%8F%E5%BB%BA)%E5%8C%BB%E7%96%97%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
+November 2022-September 2023, **Research Assistant**, [Anglong (Fujian) Medical Technology Co.](https://aiqicha.baidu.com/detail/compinfo?pid=91969160403358&rq=ef&pd=ee&from=ps&query=%E5%AE%89%E6%8D%B7%E9%BE%99(%E7%A6%8F%E5%BB%BA)%E5%8C%BB%E7%96%97%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
 
 Participated in the company's research team's literature reporting and seminars, and undertook the research task of "automatic drawing of lung nodules and classification of benign and malignant" project. Participated in the commercial planning and follow-up of the project "Anjelon Interventional Surgery Navigation System".
 
--September 2023 - June 2025, **Technical Associate**, [Anglong (Fujian) Medical Technology Co.](https://aiqicha.baidu.com/detail/compinfo?pid=91969160403358&rq=ef&pd=ee&from=ps&query=%E5%AE%89%E6%8D%B7%E9%BE%99(%E7%A6%8F%E5%BB%BA)%E5%8C%BB%E7%96%97%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
+September 2023-June 2025, **Technical Associate**, [Anglong (Fujian) Medical Technology Co.](https://aiqicha.baidu.com/detail/compinfo?pid=91969160403358&rq=ef&pd=ee&from=ps&query=%E5%AE%89%E6%8D%B7%E9%BE%99(%E7%A6%8F%E5%BB%BA)%E5%8C%BB%E7%96%97%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8)
 
 Responsible for technical research, project development and system maintenance. Responsible for 1 project and participated in 4 projects. Commercial projects won 1 first prize, 2 gold prizes, 3 second prizes and 3 merit prizes in national competitions.
 
